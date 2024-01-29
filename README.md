@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Development Projects.
-- 📫 How to reach me https://www.linkedin.com/in/kandarp-joshi-developer/
+- 📫 How to reach me: Email or LinkedIn
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love watching Cricket
 
