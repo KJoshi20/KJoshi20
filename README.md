@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KJoshi20
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Data Analytics.
+- 🌱 Currently learning Data Analytics.
 - 💞️ I’m looking to collaborate on Software Development + Data Science Projects.
 - 📫 How to reach me: Email or LinkedIn
 - 😄 Pronouns: He/him
